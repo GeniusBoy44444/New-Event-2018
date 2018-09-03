@@ -1,2 +1,2 @@
-#mohamed eltahawy
-![Alt text](https://www.fatbit.com/fab/wp-content/uploads/2015/03/online-furniture-marketplace-business-model.jpg)
+# Let’s discuss the website features and critical areas to make your online store a huge success.
+
