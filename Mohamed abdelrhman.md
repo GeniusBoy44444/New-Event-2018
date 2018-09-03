@@ -1,7 +1,7 @@
 # Let’s discuss the website features and critical areas to make your online store a huge success.
 
 
-# +Main Navigation
+# + Main Navigation
 ### Do not make it hard for buyers to find products and exclusive deals. Plan a UX focused navigation bar focusing on categories like:
 
 * Home Décor
