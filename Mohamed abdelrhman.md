@@ -54,4 +54,4 @@
 * Change Password
 * More
 
-![Make sure the whole design is minimalistic and includes only the most important action links.] (https://www.fatbit.com/fab/wp-content/uploads/2015/03/Order-Product-547x1024.png)
+![Make sure the whole design is minimalistic and includes only the most important action links](https://www.fatbit.com/fab/wp-content/uploads/2015/03/Order-Product-547x1024.png)
