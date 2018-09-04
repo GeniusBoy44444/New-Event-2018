@@ -1,11 +1,10 @@
-# website features and critical areas to make online store.
+# E-commerce Features
 
 
 ## Main Navigation
 #### Do not make it hard for buyers to find products and exclusive deals. Plan a UX focused navigation bar focusing on categories like:
 
-* Home Décor
-* Furnishings
+* Home 
 * Lamps & Lightening
 * Kitchen & Dining Appliances
 * Others
