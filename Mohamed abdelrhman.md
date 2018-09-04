@@ -55,7 +55,7 @@
 * More
 
 <div>
-<h1 style="text-align: center">
+<h1 align= "center" color= "red">
  Make sure the whole design is minimalistic and includes only the most important action   
 </h1>
 </div>  links  
