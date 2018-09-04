@@ -28,7 +28,7 @@
 #### Popular furniture marketplaces score in this area, and yours should too.
 
 ## Homepage Highlights
-#### The entire look and feel of the homepage should be looked upon carefully. Here are a few noticeable points to be kept in mind while building your home decor website:
+#### The entire look and feel of the homepage should be looked upon carefully. Here are a few noticeable points to be kept in mind while building your website:
 
 * Provision of powerful product search tool
 * Trending products and top brand products section
@@ -55,10 +55,27 @@
 * More
 
 <div>
-<h1 align= "center"; color= "red" >
- Make sure the whole design is minimalistic and includes only the most important action   
-</h1>
-</div>  links  
+    <h1 align= "center">
+    Make sure the whole design is minimalistic and includes only the most important action </h1>
+</div> 
 <p align="center">
   <img src="https://www.fatbit.com/fab/wp-content/uploads/2015/03/Order-Product-547x1024.png">
 </p> 
+
+
+## Selling Products
+
+#### Allow Shoppers to connect with you to discuss selling possibilities. Create a dedicate page for this and highlight benefits of partnering with your store. Registration form can ask for:
+
+* Store/company’s name
+* Contact details
+* Product categories offered
+* Bank details in order to sell products
+
+#### Don’t ask unnecessary information from sellers through the form. Keep it simple.
+
+## Mobile App
+#### With mobile devices becoming prime source for browsing internet and online shopping, it is customary for every ecommerce business to launch a mobile app. A mobile app is essential to provide buyers a seamless way to shop online.
+
+#### Of course it will not make monetary and business sense to launch both together. If launching your store with a website, make sure you get the advantage of responsive design.
+
