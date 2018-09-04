@@ -53,10 +53,8 @@
 * Change Password
 * More
 
-<div>
-    <h1 align= "center">
-    Make sure the whole design is minimalistic and includes only the most important action </h1>
-</div> 
+ ### Make sure the whole design is minimalistic and includes only the most important action  
+
 <p align="center">
   <img src="https://www.fatbit.com/fab/wp-content/uploads/2015/03/Order-Product-547x1024.png">
 </p> 
